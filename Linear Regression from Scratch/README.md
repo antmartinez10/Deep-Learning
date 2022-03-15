@@ -5,4 +5,4 @@ It was a tedious process, but coding ML algorithms from scratch is a great way t
 Luckily, I was able to use **Python**. I have done this project in C++ and it was even more tedious. 
 
 ## Technologies Used
-For this project used **Googe Collab**, **Python** and the **Pandas** library.
+For this project used **Google Colab**, **Python** and the **Pandas** library.
